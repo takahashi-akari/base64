@@ -1,10 +1,10 @@
-# base64-ts
+# base64
 A Base64 encoder/decoder written in TypeScript.
 
 ## Usage
 
 ```ts
-import { Base64 } from 'base64-ts';
+import { Base64 } from 'base64';
 
 // encode
 const encoded = Base64.encode('Hello, world!');
@@ -16,4 +16,4 @@ console.log(decoded); // Hello, world!
 ```
 
 ## License
-MIT License © 2023 [Takahashi Akari](https://github.com/takahashi-akari/base64-ts)
+MIT License © 2023 [Takahashi Akari](https://github.com/takahashi-akari/base64)
